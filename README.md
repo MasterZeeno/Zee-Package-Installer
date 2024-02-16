@@ -1,31 +1,43 @@
-# InstallerX
+#Zee Package Installer
 
-## 介绍
+A fork of #InstallerX
 
-一款应用安装程序，为什么不试试【InstallerX】？
 
-在国产系统的魔改下，许多系统的自带安装程序体验并不是很好，你可以使用【InstallerX】替换掉系统默认安装程序。
 
-当然，相对于原生系统，【InstallerX】也带来了更多的安装选项：对话框安装、通知栏安装、自动安装、声明安装者、选择是否安装到所有用户空间、允许测试包、允许降级安装、安装后自动删除安装包。
+ ## Introducing an application installer, why not try [InstallerX]?
 
-## 支持版本
 
-Android 5.0 ~ 13
 
-## 下载
+ Under the magic modification of domestic systems, the experience of the built-in installer of many systems is not very good. You can use [InstallerX] to replace the system default installer.
 
-- [酷安](https://www.coolapk.com/apk/933870)
-- [QQ频道](https://pd.qq.com/s/nx7jpup8)
-- [QQ群组（官方）](https://qm.qq.com/cgi-bin/qm/qr?k=YMyAigxnns_FkISlRaormMiApHr2RmU7&jump_from=webapi&qr=1)
 
-## 捐赠支持
 
-- [支付宝](https://qr.alipay.com/fkx18580lfpydiop04dze47)
-- [微信](https://missuo.ru/file/fee5df1381671c996b127.png)
-- [币安](https://missuo.ru/file/28368c28d4ff28d59ed4b.jpg)
+ Of course, compared to the native system, [InstallerX] also brings more installation options: dialog box installation, notification bar installation, automatic installation, declare installer, choose whether to install to all user spaces, allow testing packages, allow downgrade installation , Automatically delete the installation package after installation.
 
-## 开源协议
 
-InstallerX目前基于 [**GNU General Public License v3 (GPL-3)**](http://www.gnu.org/copyleft/gpl.html) 开源，但不保证未来依然继续遵循此协议或开源，有权更改开源协议或开源状态。
 
-当您选择基于InstallerX进行开发时，需遵循所当前依赖的上游源码所规定的开源协议，不受新上游源码的开源协议影响。
+ ## Support version Android 5.0 ~ 13
+
+
+
+ ## Download-[Coolan](https://www.coolapk.com/apk/933870)
+
+ - [QQ Channel](https://pd.qq.com/s/nx7jpup8)
+
+ - [QQ Group (Official)](https://qm.qq.com/cgi-bin/qm/qr?k=YMyAigxnns_FkISlRaormMiApHr2RmU7&jump_from=webapi&qr=1)
+
+
+
+ ## Donation support-[Alipay](https://qr.alipay.com/fkx18580lfpydiop04dze47)
+
+ - [WeChat](https://missuo.ru/file/fee5df1381671c996b127.png)
+
+ - [Binance](https://missuo.ru/file/28368c28d4ff28d59ed4b.jpg)
+
+
+
+ ## The open source protocol InstallerX is currently open source based on [**GNU General Public License v3 (GPL-3)**](http://www.gnu.org/copyleft/gpl.html), but there is no guarantee that it will continue to follow this in the future. protocol or open source, and has the right to change the open source protocol or open source status.
+
+
+
+ When you choose to develop based on InstallerX, you must follow the open source agreement stipulated by the upstream source code you currently rely on, and will not be affected by the open source agreement of the new upstream source code.
